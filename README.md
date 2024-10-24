@@ -43,4 +43,4 @@ Sonuçlar
 Model, balık türlerini başarılı bir şekilde sınıflandırmakta ve değerlendirme adımlarında iyi sonuçlar elde etmiştir. Hiperparametre optimizasyonu sonucunda modelin doğruluğu artırılmış ve aşırı öğrenme önlenmiştir.
 
 # Kaggle Notebook Linki
-Projenin Kaggle üzerindeki notebook'una buradan ulaşabilirsiniz: Kaggle Notebook
+Projenin Kaggle üzerindeki notebook'una buradan ulaşabilirsiniz: [Kaggle Notebook](https://www.kaggle.com/code/mustafayapar/ann-fishdataset)
