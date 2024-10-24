@@ -6,7 +6,7 @@ Bu proje, Akbank tarafından düzenlenen Derin Öğrenme Bootcamp'ı kapsamında
 # Proje Konusu
 Projenin ana amacı, sağlanan balık veri seti üzerinde bir yapay sinir ağı (ANN) mimarisi kullanarak sınıflandırma modeli geliştirmektir. Veri seti, çeşitli balık türlerini içeren resimlerden oluşmaktadır ve modelin bu resimlerden yola çıkarak hangi türe ait olduğunu belirlemesi beklenmektedir.
 
-Veri Seti: A Large Scale Fish Dataset
+Veri Seti: [A Large Scale Fish Dataset] https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset/data
 
 Projede Kullanılan Teknolojiler
 Python
