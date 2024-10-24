@@ -14,7 +14,7 @@ TensorFlow ve Keras
 Pandas ve NumPy
 Matplotlib ve Seaborn (Veri görselleştirme)
 Scikit-learn (Veri işleme ve değerlendirme)
-Adımlar
+
 # 1. Veri Önişleme
 Veri seti, .png formatında resimlerden oluştuğu için, geleneksel veri yükleme yöntemleri yerine resimler işlenerek bir Pandas DataFrame oluşturulmuştur. Aşağıdaki adımlar bu sürecin temelini oluşturmaktadır:
 
